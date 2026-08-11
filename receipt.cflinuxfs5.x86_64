@@ -1,4 +1,4 @@
-Rootfs SHASUM: 51228aef3a44edf96a6ac0ba730248f6ab8a391f2ec5bcfb5a1b533c947bb403
+Rootfs SHASUM: 6d23d42a397881c7fa83ecf501463f5f4bf11fc9cf3128321403fcfa82cb357f
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -459,8 +459,8 @@ ii  libsvn1:amd64                     1.14.3-1build4                        amd6
 ii  libsvtav1enc1d1:amd64             1.7.0+dfsg-2build1                    amd64        Scalable Video Technology for AV1 (libsvtav1enc shared library)
 ii  libswresample4:amd64              7:6.1.1-3ubuntu5                      amd64        FFmpeg library for audio resampling, rematrixing etc. - runtime files
 ii  libsysfs2:amd64                   2.1.1-6build1                         amd64        interface library to sysfs - shared library
-ii  libsystemd-shared:amd64           255.4-1ubuntu8.16                     amd64        systemd shared private library
-ii  libsystemd0:amd64                 255.4-1ubuntu8.16                     amd64        systemd utility library
+ii  libsystemd-shared:amd64           255.4-1ubuntu8.17                     amd64        systemd shared private library
+ii  libsystemd0:amd64                 255.4-1ubuntu8.17                     amd64        systemd utility library
 ii  libtasn1-6:amd64                  4.19.0-3ubuntu0.24.04.2               amd64        Manage ASN.1 structures (runtime)
 ii  libtasn1-6-dev:amd64              4.19.0-3ubuntu0.24.04.2               amd64        Manage ASN.1 structures (development)
 ii  libterm-ui-perl                   0.50-1                                all          Term::ReadLine UI made easy
@@ -479,7 +479,7 @@ ii  libtirpc3t64:amd64                1.3.4+ds-1.1build1                    amd6
 ii  libtsan2:amd64                    14.2.0-4ubuntu2~24.04.1               amd64        ThreadSanitizer -- a Valgrind-based detector of data races (runtime)
 ii  libtwolame0:amd64                 0.4.0-2build3                         amd64        MPEG Audio Layer 2 encoding library
 ii  libubsan1:amd64                   14.2.0-4ubuntu2~24.04.1               amd64        UBSan -- undefined behaviour sanitizer (runtime)
-ii  libudev1:amd64                    255.4-1ubuntu8.16                     amd64        libudev shared library
+ii  libudev1:amd64                    255.4-1ubuntu8.17                     amd64        libudev shared library
 ii  libunbound8:amd64                 1.19.2-1ubuntu3.8                     amd64        library implementing DNS resolution and validation
 ii  libunistring5:amd64               1.1-2build1.1                         amd64        Unicode string library for C
 ii  libunwind8:amd64                  1.6.2-3build1.1                       amd64        library to determine the call-chain of a program - runtime
@@ -552,7 +552,7 @@ ii  libzstd-dev:amd64                 1.5.5+dfsg2-2build1.1                 amd6
 ii  libzstd1:amd64                    1.5.5+dfsg2-2build1.1                 amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.42-2                              all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0t64:amd64                 0.2.42-2                              amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              6.8.0-136.136                         amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              6.8.0-137.137                         amd64        Linux Kernel Headers for development
 ii  locales                           2.39-0ubuntu8.8                       all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build2                          amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.13+dfsg1-4ubuntu3.2               amd64        system login tools
@@ -605,9 +605,9 @@ ii  strace                            6.8-0ubuntu2                          amd6
 ii  subversion                        1.14.3-1build4                        amd64        Advanced version control system
 ii  sudo                              1.9.15p5-3ubuntu5.24.04.2             amd64        Provide limited super user privileges to specific users
 ii  sysstat                           12.6.1-2                              amd64        system performance tools for Linux
-ii  systemd                           255.4-1ubuntu8.16                     amd64        system and service manager
-ii  systemd-dev                       255.4-1ubuntu8.16                     all          systemd development files
-ii  systemd-sysv                      255.4-1ubuntu8.16                     amd64        system and service manager - SysV compatibility symlinks
+ii  systemd                           255.4-1ubuntu8.17                     amd64        system and service manager
+ii  systemd-dev                       255.4-1ubuntu8.17                     all          systemd development files
+ii  systemd-sysv                      255.4-1ubuntu8.17                     amd64        system and service manager - SysV compatibility symlinks
 ii  sysvinit-utils                    3.08-6ubuntu3                         amd64        System-V-like utilities
 ii  tar                               1.35+dfsg-3ubuntu0.4                  amd64        GNU version of the tar archiving utility
 ii  tasksel                           3.75ubuntu1                           all          tool for selecting tasks for installation on Debian systems
@@ -617,7 +617,7 @@ ii  traceroute                        1:2.1.5-1                             amd6
 ii  tzdata                            2026c-0ubuntu0.24.04.1                all          time zone and daylight-saving time data
 ii  ubuntu-keyring                    2023.11.28.1                          all          GnuPG keys of the Ubuntu archive
 ii  ucf                               3.0043+nmu1                           all          Update Configuration File(s): preserve user changes to config files
-ii  udev                              255.4-1ubuntu8.16                     amd64        /dev/ and hotplug management daemon
+ii  udev                              255.4-1ubuntu8.17                     amd64        /dev/ and hotplug management daemon
 ii  unixodbc-common                   2.3.12-1ubuntu0.24.04.1               all          Common ODBC configuration files
 ii  unixodbc-dev:amd64                2.3.12-1ubuntu0.24.04.1               amd64        ODBC libraries for Unix (development files)
 ii  unminimize                        0.2.1                                 amd64        Un-minimize your minimial images or setup
